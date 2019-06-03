@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">یادداشت</string>
+    <string name="add_note">نوشتن یادداشت</string>
+    <string name="note">یادداشت</string>
+    <string name="add">ذخیره</string>
+    <string name="date">محتوا</string>
+</resources>
